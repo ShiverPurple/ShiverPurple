@@ -38,7 +38,12 @@
 * Francês - Baixo
 * Espanhol - Iniciante
 
+## Projetos em destaque
 
-
+<p>
+<a href=https://github.com/WandersonKnight/League-Quick-Data/>
+<img src=https://img.shields.io/badge/League%20Quick%20Data-14555b?style=flat-square>
+</a>
+</p>
 
 
