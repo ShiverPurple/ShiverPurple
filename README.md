@@ -1,16 +1,37 @@
+<p align=”center”>
+<a href=https://www.linkedin.com/in/wandersongasco/>
+<img src=https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue>
+</a>
+<a href=https://play.google.com/store/apps/dev?id=7872226918614774265/>
+<img src=https://img.shields.io/badge/PlayStore-red?style=flat&logo=googleplay&labelColor=red>
+</a>
+</p>
+
 ### Hi there 👋
 
-<!--
-**WandersonKnight/WandersonKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open>
+<summary>Linguagens de programação
+</summary>
+<br>
 
-Here are some ideas to get you started:
+* Python - <font color="green"> Some green text </font>
+* C - Médio-Alto
+* C# - Médio
+* Java - Baixo-Médio
+* C++ - Muito Baixo
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+<summary>Idiomas
+</summary>
+<br>
+
+* Português - Nativo
+* Inglês - Muito Alto
+* Francês - Baixo
+* Espanhol - Iniciante
+</details>
+
+
+
+
