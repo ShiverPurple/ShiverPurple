@@ -2,7 +2,7 @@
 <a href=https://www.linkedin.com/in/wandersongasco/>
 <img src=https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue>
 </a>
-<a href=https://play.google.com/store/apps/dev?id=7872226918614774265/>
+<a href=https://play.google.com/store/apps/dev?id=7872226918614774265 />
 <img src=https://img.shields.io/badge/PlayStore-red?style=flat&logo=googleplay&labelColor=red>
 </a>
 </p>
