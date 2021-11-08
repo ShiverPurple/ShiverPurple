@@ -8,7 +8,8 @@
 </p>
 
 # <p align="center"> Bem vindo ao meu perfil. <p/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700E1&size=30&center=true&vCenter=true&width=380&lines=Gamedev%3A+Ultraviolet+Studio;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Buscando+emprego)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF01F1&size=32&center=true&vCenter=true&width=1000&height=40&lines=Gamedev%3A+Ultraviolet+Studio;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Procurando+emprego)](https://git.io/typing-svg)
 
 ## Softwares e Linguagens de Programação
 ### Linguagens de programação
@@ -38,7 +39,7 @@
 * Francês - Baixo
 * Espanhol - Iniciante
 
-## Projetos em destaque
+## Projetos em Destaque
 
 <p>
 <a href=https://github.com/WandersonKnight/League-Quick-Data/>
