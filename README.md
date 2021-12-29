@@ -30,6 +30,7 @@
 <img src=https://img.shields.io/badge/Blender-ea7600?logo=blender&logoColor=white>
 <img src=https://img.shields.io/badge/Illustrator-330000?logo=adobeillustrator&logoColor=white>
 <img src=https://img.shields.io/badge/Premiere-2a0034?logo=adobepremierepro&logoColor=white>
+<img src=https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white>
 </p>
 
 ## Idiomas
@@ -46,5 +47,7 @@
 <img src=https://img.shields.io/badge/League%20Quick%20Data-14555b?style=flat-square>
 <a href=https://github.com/WandersonKnight/Campo-Minado/>
 <img src=https://img.shields.io/badge/Campo%20Minado-BD4A00?style=flat-square>
+<a href=https://github.com/WandersonKnight/Calculadora/>
+<img src=https://img.shields.io/badge/Calculadora-4c7a9e?style=flat-square>
 </a>
 </p>
