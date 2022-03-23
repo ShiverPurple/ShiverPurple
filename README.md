@@ -43,10 +43,12 @@
 ## Projetos em Destaque
 
 <p>
+<a href=https://github.com/WandersonKnight/Occupy-Worlds/>
+<img src=https://img.shields.io/badge/Occupy%20Worlds:%20Mobile%20Game-C63401?style=flat-square>
 <a href=https://github.com/WandersonKnight/League-Quick-Data/>
 <img src=https://img.shields.io/badge/League%20Quick%20Data-14555b?style=flat-square>
 <a href=https://github.com/WandersonKnight/Campo-Minado/>
-<img src=https://img.shields.io/badge/Campo%20Minado-BD4A00?style=flat-square>
+<img src=https://img.shields.io/badge/Campo%20Minado-8B8A8A?style=flat-square>
 <a href=https://github.com/WandersonKnight/Calculadora/>
 <img src=https://img.shields.io/badge/Calculadora-4c7a9e?style=flat-square>
 </a>
