@@ -38,7 +38,6 @@
 * Português - Nativo
 * Inglês - Muito Alto
 * Francês - Baixo
-* Espanhol - Baixo
 
 ## Projetos em Destaque
 
