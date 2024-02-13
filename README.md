@@ -7,7 +7,7 @@
 </a>
 </p>
 
-# <p align="center"> Bem-vindo ao meu perfil. <p/>
+# <p align="center"> Home <p/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF01F1&size=32&center=true&vCenter=true&width=1000&height=40&lines=Gamedev%3A+Ultraviolet+Studio)](https://git.io/typing-svg)
 
