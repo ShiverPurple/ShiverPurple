@@ -43,7 +43,5 @@
 <p>
 <a href=https://github.com/WandersonKnight/Occupy-Worlds/>
 <img src=https://img.shields.io/badge/Occupy%20Worlds:%20Mobile%20Game-C63401?style=flat-square>
-<a href=https://github.com/WandersonKnight/League-Quick-Data/>
-<img src=https://img.shields.io/badge/League%20Quick%20Data-14555b?style=flat-square>
 </a>
 </p>
